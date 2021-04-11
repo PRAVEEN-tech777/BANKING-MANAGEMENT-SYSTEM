@@ -1,2 +1,9 @@
 # BANKING-MANAGEMENT-SYSTEM
-WE CREATED TWO MODULES ONE FOR CLASS AND FUNCTIONS AND ANOTHER ONE FOR MAINSPACE FOR CALLING THE MODULE1 FUNCTIONS. IN MODULE ONE,WE CREATED TWO CLASSES ONE FOR EXCEPTION HANDLING AND ANOTHER ONE FOR CREATING THE FUNCTIONS , 1.CREATEACCOUNT() 2.SHOWING THE USING ACCOUNTDETAILS() 3.CREATED THE ACCOUNTNUMBER() USING RANDOM METHOD GENERATED THE 16 DIGITS NUMBER. 4.LOGIN() FOR CREATING USERID AND PASSWORD AND ACCESSING FOR 5.DEPOSIT() AND WITHDRAW() 6.SHOWING THE BALANCE USING DISPLAY()
+•	It allows user to create a new account and view the account details.
+•	After Creating the account , it will generate the 16digit account number.
+•	User can create a new user id and password using login operation.
+•	User can deposit and withdraw the money.
+•	It final shows the account current balance.
+•	User enter the User Id and Password if its incorrect more than three times account will be blocked.
+
+
