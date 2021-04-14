@@ -1,15 +1,17 @@
 
-##WELCOME TO THIS PAGE 
+##WELCOME TO THIS PAGE
+
+```markdown
 ##THIS IS PRAVEEN
-##HI, I HAVE COMPLETED BCA IN 2020 AT PATRICIAN COLLEGE OF ARTS AND SCIENCE ,UNIVERSITY OF MADRAS.I HAVE DONE THE COURSES ON SQL DATABASE AND PYTHON FULL STACK DEVELOPER IN THE QSPIDER INSTITUTE IN VADAPALANI,CHENNAI.I HAVE DONE THE PROJECT ON THE BANKING MANAGEMENT SYSTEM.
 
-You can use the [editor on GitHub](https://github.com/PRAVEEN-tech777/BANKING-MANAGEMENT-SYSTEM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##HI,
+      I HAVE COMPLETED BCA IN 2020 AT PATRICIAN COLLEGE OF ARTS AND SCIENCE ,UNIVERSITY OF MADRAS
+			AND FINISHED THE COURSES ON SQL DATABASE AND PYTHON FULL STACK DEVELOPER IN THE QSPIDER INSTITUTE IN VADAPALANI,CHENNAI.
+			I HAVE DONE THE PROJECT ON THE BANKING MANAGEMENT SYSTEM.
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 #TECHNICAL SKILLS
