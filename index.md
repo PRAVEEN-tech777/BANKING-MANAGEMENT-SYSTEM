@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+
+##WELCOME TO THIS PAGE 
+##THIS IS PRAVEEN
+##HI, I HAVE COMPLETED BCA IN 2020 AT PATRICIAN COLLEGE OF ARTS AND SCIENCE ,UNIVERSITY OF MADRAS.I HAVE DONE THE COURSES ON SQL DATABASE AND PYTHON FULL STACK DEVELOPER IN THE QSPIDER INSTITUTE IN VADAPALANI,CHENNAI.I HAVE DONE THE PROJECT ON THE BANKING MANAGEMENT SYSTEM.
 
 You can use the [editor on GitHub](https://github.com/PRAVEEN-tech777/BANKING-MANAGEMENT-SYSTEM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,23 +31,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 • Expertise in client scripting languages like JavaScript, bootstrap.
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Linkedln](www.linkedin.com/in/praveensoftwaredeveloper) and ![Image](src)
+[Linkedln](www.linkedin.com/in/praveensoftwaredeveloper) 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**ROLES & RESPONSIBILITIES**
+• Researching, Designing, Implementing and Managing Software Programs.
+• Identifying Areas for Modification in Existing Programs and Subsequently Developing These Modification.
+• Writing and Implementing Efficient Code
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PRAVEEN-tech777/BANKING-MANAGEMENT-SYSTEM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
