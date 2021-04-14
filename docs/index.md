@@ -7,10 +7,6 @@ You can use the [editor on GitHub](https://github.com/PRAVEEN-tech777/BANKING-MA
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 
 #TECHNICAL SKILLS
 **• Languages/scripts : SQL, PYTHON FULL STACK DEVELOPER
